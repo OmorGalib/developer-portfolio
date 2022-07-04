@@ -4,15 +4,28 @@ body{
 h1{
     font: size 50px;
 }
+h4{
+    color: crimson;
+}
+h2{
+    color: rgb(8, 16, 49);
+}
+p{
+    color: rgb(122, 10, 85);
+}
+#expn{
+    color: rgb(58, 42, 3);
+}
 #h-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
+    padding-left: 10px;
 }
 .half-width img{
     width: 70%;
@@ -27,3 +40,107 @@ section{
     border-radius: 5px;
     font-weight: 700;
 }
+.experiance-border{
+    width: 40%;
+    margin: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(15, 233, 15);
+}
+#border_left{
+    border-left: 7px solid red;
+}
+#border_right{
+    border-left: 7px solid rgb(240, 5, 240);
+}
+footer p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
